@@ -1,0 +1,30 @@
+html,body {
+    background-color: #373e98;
+    font-family: 'Ubuntu', sans-serif;
+    color:#f16775 ;  
+    
+}
+h1 {
+    font-size: 3rem;
+}
+a { color: #fee36e;
+    text-decoration: none
+}
+p {
+    color:#ceb92c;
+    font-size: 2rem;
+}
+br {
+    height: 100px;
+}
+.dok {
+    background-color: #2a2a2a; 
+    color: #ceb92c;
+    font-size: 20px;
+    border-radius: 15px;
+    width: 110px;
+}
+.dok:hover {
+    background-color: #ceb92c;
+    color:#2a2a2a;
+}

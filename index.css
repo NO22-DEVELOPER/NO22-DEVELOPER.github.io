@@ -1,0 +1,37 @@
+html,body{
+    background: url(back.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    font-family: 'Raleway', sans-serif;
+}
+.navcool { background-color: cyan;
+}
+h1 {
+    text-align: center; color: darkcyan ; font-size: 70px;
+    font-weight: bold;
+}
+.bat { 
+   padding: 15px; font-size: 40px; width: 250px; border-radius: 200px;
+   font-weight: bold; color: yellow; background-color: darkcyan;
+   
+}
+.bat:hover {  font-size: 43px;
+    padding: 16px;
+    box-shadow: 2px 3px 2px 1px rgba(0, 139, 139, 0.507);
+    color: yellow; background-color: darkcyan;
+}
+.saerch {
+    font-weight: bold;
+}
+     
+.col {
+    margin-top: 28rem;
+}
+.saerch:hover { background-color: yellow; color: darkcyan;
+      font-weight: bold;
+}
+.inputme:hover { border: 3px yellow;
+    
+}

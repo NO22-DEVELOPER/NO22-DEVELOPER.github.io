@@ -1,0 +1,46 @@
+html,body {
+    background-color: #5cdb95;
+    color: #05386b;
+    font-family: 'Raleway', sans-serif;
+    margin-left: 5px;
+}
+h1 { font-size: 60px;
+    font-weight: bold;
+    
+}
+h3 {
+    font-weight: bold;
+    font-size: 30px;
+    
+}
+.dok {background-color: #5cdb95;
+    color: #05386b;
+    border: 0px;
+    font-weight: bold;
+    font-size: 30px;
+    padding-left: 0px;
+
+}
+.dok:hover {
+    background-color: #5cdb95;
+    color: #edf5e1;
+
+}
+.press { background-color: #5cdb95;
+    color: #05386b;
+    border: 0px;
+    font-weight: bold;
+    font-size: 30px;
+    padding-left: 0px;
+}
+.press:hover {
+    background-color: #5cdb95;
+    color: #edf5e1;
+}
+a {
+    color: #05386b;
+    text-decoration: none
+}
+a:hover {
+    color: #edf5e1;
+}

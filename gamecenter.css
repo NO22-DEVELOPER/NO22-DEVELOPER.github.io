@@ -1,0 +1,31 @@
+html,body {
+    font-family: 'Ubuntu', sans-serif;
+    background-color: #41B3A3;
+    color: whitesmoke;
+    margin-left: 5px;
+}
+h1 { font-weight: bold;
+    font-size: 70px;
+
+}
+.dok {
+    background-color: #E27D60 ;
+    margin-top: 0.5rem;
+    width: 250px;
+    font-size: 40px;
+    color: #8DCB;
+    border-radius: 20px;
+}
+.dok:hover { background-color: #E8A87C ;
+    color: #C38D9E;
+    width: 260px;
+    font-size: 42px;
+}
+.back {
+    width: 150px;
+    margin-top: 30rem;
+}
+.back:hover {
+    width: 155px;
+    
+}
